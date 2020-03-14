@@ -2,10 +2,12 @@
 This is the code for Project 1 in CSCI-UA 330 Introduction to Computer Simulation course. The codes are provided by Chady Raach and Yuma Kanazawa.
 
 ## To Run Simulink File
-1. Initialize the data with init.W 
+1. Initialize the data with init.W (use given vector x_1 and x_2 or the optimized run)
 2. Open simMechanics.slx and Run
 3. Using the output of simulink, simout, and other data, run showTraj.m
 
+## To optimize the code
+1. run Optimization.m. Initial guess can be changed by rewriting the values of x0 in the code.
 
 ### References
 1. Weir, A. (2014). The Martian: a novel. New York: Crown Publishers.
