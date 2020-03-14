@@ -6,7 +6,7 @@ This is the code for Project 1 in CSCI-UA 330 Introduction to Computer Simulatio
 2. Open simMechanics.slx and Run
 3. Using the output of simulink, simout, and other data, run showTraj.m
 
-## To optimize the code
+## To optimize the thrust angles
 1. run Optimization.m. Initial guess can be changed by rewriting the values of x0 in the code.
 
 ### References
